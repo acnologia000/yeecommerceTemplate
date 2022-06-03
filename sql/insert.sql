@@ -1,0 +1,1 @@
+INSERT INTO USERS (fullname, email, password_hash) values ($1,$2,$3)
